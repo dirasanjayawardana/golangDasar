@@ -5,10 +5,10 @@
 // go run namaFile.go --> untuk run file golang secara langsung
 // di golang boleh menggunaka ; atau tidak
 
-package main
+package basic
 
 import "fmt"
 
-func main_NOUSED() {
+func HelloWorld() {
 	fmt.Println(("Hello world!"))
 }
